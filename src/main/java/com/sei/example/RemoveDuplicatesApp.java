@@ -82,7 +82,7 @@ public class RemoveDuplicatesApp {
 	 * ascending order.
 	 * 
 	 * Positive: less code. Performance is best with larger arrays.
-	 * Negative: more time taken
+	 * Negative: for smaller arrays this method takes more time comparatively when compared with removeDuplicatesWithoutCollection method.
 	 * 
 	 * @param randomIntegers
 	 */
@@ -109,7 +109,7 @@ public class RemoveDuplicatesApp {
 	 * This method uses java 8 API to remove duplicate elements. 
 	 * 
 	 * Positive: even lesser code. Performance better with larger array size.
-	 * Negative: more time taken for lesser array size, Java 8 dependency
+	 * Negative: more time taken for lesser array size when compared with removeDuplicatesWithoutCollection method, Java 8 dependency
 	 * 
 	 * @param arr
 	 */
