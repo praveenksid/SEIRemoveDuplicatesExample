@@ -1,6 +1,4 @@
-Submitted by: 
-Consulting Firm:
-Contact Info:
+Submitted by: Praveen Siddaramappa
 
 1. Given the following class, write 3 methods that can be used to return an array that has no duplicates.
 2. You should define a method signature that you feel is appropriate to the problem.
